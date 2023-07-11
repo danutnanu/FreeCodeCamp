@@ -23,4 +23,16 @@
 | Telephone Number Validator    |[CodePen](https://codepen.io/Danut-Nanu/full/MWzjEZZ) | [CodePen](https://codepen.io/Danut-Nanu/pen/MWzjEZZ) | *js*  |
 | **[Certificate](https://www.freecodecamp.org/certification/danutnanu/javascript-algorithms-and-data-structures)** ||||
 
+<br>
 
+ ### Front End Development Libraries
+| Project Name                  | Live Project                                        | Code                                                | Technologies |
+| :---                          | :--                                                 | :---                                                | :---         |
+| Personal Portofolio Webpage  |[CodePen](https://codepen.io/Danut-Nanu/full/rNZOxGx) | [CodePen](https://codepen.io/Danut-Nanu/pen/rNZOxGx) | *html, css*  |
+| Survey Form                  |[CodePen](https://codepen.io/Danut-Nanu/full/yLxyEMP) | [CodePen](https://codepen.io/Danut-Nanu/pen/yLxyEMP) | *html, css*  |
+| Technical Documentation Page |[CodePen](https://codepen.io/Danut-Nanu/full/xxabzdm) | [CodePen](https://codepen.io/Danut-Nanu/pen/xxabzdm) | *html, css*  |
+| Tribute Page                 |[CodePen](https://codepen.io/Danut-Nanu/full/PoBVxbp) | [CodePen](https://codepen.io/Danut-Nanu/pen/PoBVxbp) | *html, css*  |
+| Survey Form                  |[CodePen](https://codepen.io/Danut-Nanu/full/yLxyEMP) | [CodePen](https://codepen.io/Danut-Nanu/pen/yLxyEMP) | *html, css*  |
+| **[Certificate](https://www.freecodecamp.org/certification/danutnanu/responsive-web-design)** ||||
+
+<br>
