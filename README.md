@@ -33,6 +33,6 @@
 | Technical Documentation Page |[CodePen](https://codepen.io/Danut-Nanu/full/xxabzdm) | [CodePen](https://codepen.io/Danut-Nanu/pen/xxabzdm) | *html, css*  |
 | Tribute Page                 |[CodePen](https://codepen.io/Danut-Nanu/full/PoBVxbp) | [CodePen](https://codepen.io/Danut-Nanu/pen/PoBVxbp) | *html, css*  |
 | Survey Form                  |[CodePen](https://codepen.io/Danut-Nanu/full/yLxyEMP) | [CodePen](https://codepen.io/Danut-Nanu/pen/yLxyEMP) | *html, css*  |
-| **[Certificate](https://www.freecodecamp.org/certification/danutnanu/responsive-web-design)** ||||
+| **[Certificate](https://www.freecodecamp.org/certification/danutnanu/front-end-development-libraries)** ||||
 
 <br>
