@@ -28,8 +28,8 @@
  ### Front End Development Libraries
 | Project Name                 | Live Project                                        | Code                                                | Technologies |
 | :---                         | :--                                                 | :---                                                | :---         |
-| 25 + 5 Clock                 |[CodePen](https://codepen.io/Danut-Nanu/full/MWzwYLY) | [CodePen](https://codepen.io/Danut-Nanu/pen/MWzwYLY) | *html, css*  |
-| Drum Machine                 |[CodePen](https://codepen.io/Danut-Nanu/full/KKGLmJL) | [CodePen](https://codepen.io/Danut-Nanu/pen/KKGLmJL) | *html, css*  |
+| 25 + 5 Clock                 |[CodePen](https://codepen.io/Danut-Nanu/full/MWzwYLY) | [CodePen](https://codepen.io/Danut-Nanu/pen/MWzwYLY) | *html, css, js*  |
+| Drum Machine                 |[CodePen](https://codepen.io/Danut-Nanu/full/KKGLmJL) | [CodePen](https://codepen.io/Danut-Nanu/pen/KKGLmJL) | *html, css, js*  |
 | Technical Documentation Page |[CodePen](https://codepen.io/Danut-Nanu/full/xxabzdm) | [CodePen](https://codepen.io/Danut-Nanu/pen/xxabzdm) | *html, css*  |
 | Tribute Page                 |[CodePen](https://codepen.io/Danut-Nanu/full/PoBVxbp) | [CodePen](https://codepen.io/Danut-Nanu/pen/PoBVxbp) | *html, css*  |
 | Survey Form                  |[CodePen](https://codepen.io/Danut-Nanu/full/yLxyEMP) | [CodePen](https://codepen.io/Danut-Nanu/pen/yLxyEMP) | *html, css*  |
