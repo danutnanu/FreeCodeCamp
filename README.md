@@ -37,7 +37,7 @@
 
 <br>
 
- ### Responsive Web Design
+ ### Data Visualization
 | Project Name                  | Live Project                                        | Code                                                | Technologies |
 | :---                          | :--                                                 | :---                                                | :---         |
 | Personal Portofolio Webpage  |[CodePen](https://codepen.io/Danut-Nanu/full/rNZOxGx) | [CodePen](https://codepen.io/Danut-Nanu/pen/rNZOxGx) | *html, css*  |
