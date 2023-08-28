@@ -36,3 +36,9 @@
 | **[Certificate](https://www.freecodecamp.org/certification/danutnanu/front-end-development-libraries)** ||||
 
 <br>
+
+ ### Responsive Web Design
+| Project Name                  | Live Project                                        | Code                                                | Technologies |
+| :---                          | :--                                                 | :---                                                | :---         |
+| Personal Portofolio Webpage  |[CodePen](https://codepen.io/Danut-Nanu/full/rNZOxGx) | [CodePen](https://codepen.io/Danut-Nanu/pen/rNZOxGx) | *html, css*  |
+| Survey Form                  |[CodePen](https://codepen.io/Danut-Nanu/full/yLxyEMP) | [CodePen](https://codepen.io/Danut-Nanu/pen/yLxyEMP) | *html, css*  |
