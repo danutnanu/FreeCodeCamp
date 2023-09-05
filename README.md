@@ -43,4 +43,4 @@
 | Visualize Data with a Bar Chart         |[CodePen](https://codepen.io/Danut-Nanu/full/rNZOxGx) | [CodePen](https://codepen.io/Danut-Nanu/pen/rNZOxGx) | *html, css*  |
 | Visualize Data with a Scatterplot Graph |[CodePen](https://codepen.io/Danut-Nanu/full/yLxyEMP) | [CodePen](https://codepen.io/Danut-Nanu/pen/yLxyEMP) | *html, css*  |
 | Visualize Data with a Heat Map          |[CodePen](https://codepen.io/Danut-Nanu/full/gOQWYzN) | [CodePen](https://codepen.io/Danut-Nanu/pen/gOQWYzN) | *html, css*  |
-| Visualize Data with a Heat Map          |[CodePen](https://codepen.io/Danut-Nanu/full/gOQWYzN) | [CodePen](https://codepen.io/Danut-Nanu/pen/gOQWYzN) | *html, css*  |
+| Visualize Data with a Choropleth Map    |[CodePen](https://codepen.io/Danut-Nanu/full/gOQWYzN) | [CodePen](https://codepen.io/Danut-Nanu/pen/gOQWYzN) | *html, css*  |
