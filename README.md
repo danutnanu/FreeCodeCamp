@@ -41,6 +41,6 @@
 | Project Name                  | Live Project                                        | Code                                                | Technologies |
 | :---                          | :--                                                 | :---                                                | :---         |
 | Visualize Data with a Bar Chart         |[CodePen](https://codepen.io/Danut-Nanu/full/YzRGxKv) | [CodePen](https://codepen.io/Danut-Nanu/pen/YzRGxKv) | *html, css*  |
-| Visualize Data with a Scatterplot Graph |[CodePen](https://codepen.io/Danut-Nanu/full/yLxyEMP) | [CodePen](https://codepen.io/Danut-Nanu/pen/yLxyEMP) | *html, css*  |
+| Visualize Data with a Scatterplot Graph |[CodePen](https://codepen.io/Danut-Nanu/full/mdQOrPG) | [CodePen](https://codepen.io/Danut-Nanu/pen/mdQOrPG) | *html, css*  |
 | Visualize Data with a Heat Map          |[CodePen](https://codepen.io/Danut-Nanu/full/gOQWYzN) | [CodePen](https://codepen.io/Danut-Nanu/pen/gOQWYzN) | *html, css*  |
 | Visualize Data with a Choropleth Map    |[CodePen](https://codepen.io/Danut-Nanu/full/BaGRaEw) | [CodePen](https://codepen.io/Danut-Nanu/pen/BaGRaEw) | *html, css*  |
