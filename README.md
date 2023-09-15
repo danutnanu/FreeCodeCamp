@@ -31,8 +31,8 @@
 | 25 + 5 Clock                 |[CodePen](https://codepen.io/Danut-Nanu/full/MWzwYLY) | [CodePen](https://codepen.io/Danut-Nanu/pen/MWzwYLY) | *html, css, js*  |
 | Drum Machine                 |[CodePen](https://codepen.io/Danut-Nanu/full/KKGLmJL) | [CodePen](https://codepen.io/Danut-Nanu/pen/KKGLmJL) | *html, css, js*  |
 | JavaScriptCalculator         |[CodePen](https://codepen.io/Danut-Nanu/full/ExOxYGG) | [CodePen](https://codepen.io/Danut-Nanu/pen/ExOxYGG) | *html, css, js*  |
-| Markdown Previewer           |[CodePen](https://codepen.io/Danut-Nanu/full/RwempgN) | [CodePen](https://codepen.io/Danut-Nanu/pen/RwempgN) | *html, css*  |
-| RandomQuoteMachine           |[CodePen](https://codepen.io/Danut-Nanu/full/PoyXqwg) | [CodePen](https://codepen.io/Danut-Nanu/pen/PoyXqwg) | *html, css*  |
+| Markdown Previewer           |[CodePen](https://codepen.io/Danut-Nanu/full/RwempgN) | [CodePen](https://codepen.io/Danut-Nanu/pen/RwempgN) | *html, css, js*  |
+| RandomQuoteMachine           |[CodePen](https://codepen.io/Danut-Nanu/full/PoyXqwg) | [CodePen](https://codepen.io/Danut-Nanu/pen/PoyXqwg) | *html, css, js*  |
 | **[Certificate](https://www.freecodecamp.org/certification/danutnanu/front-end-development-libraries)** ||||
 
 <br>
