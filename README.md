@@ -40,8 +40,8 @@
  ### Data Visualization
 | Project Name                  | Live Project                                        | Code                                                | Technologies |
 | :---                          | :--                                                 | :---                                                | :---         |
-| Visualize Data with a Bar Chart         |[CodePen](https://codepen.io/Danut-Nanu/full/YzRGxKv) | [CodePen](https://codepen.io/Danut-Nanu/pen/YzRGxKv) | *html, css*  |
-| Visualize Data with a Scatterplot Graph |[CodePen](https://codepen.io/Danut-Nanu/full/mdQOrPG) | [CodePen](https://codepen.io/Danut-Nanu/pen/mdQOrPG) | *html, css*  |
-| Visualize Data with a Heat Map          |[CodePen](https://codepen.io/Danut-Nanu/full/gOQWYzN) | [CodePen](https://codepen.io/Danut-Nanu/pen/gOQWYzN) | *html, css*  |
-| Visualize Data with a Choropleth Map    |[CodePen](https://codepen.io/Danut-Nanu/full/BaGRaEw) | [CodePen](https://codepen.io/Danut-Nanu/pen/BaGRaEw) | *html, css*  |
-| Visualize Data with a Treemap Diagram    |[CodePen](https://codepen.io/Danut-Nanu/full/rNQmaNg) | [CodePen](https://codepen.io/Danut-Nanu/pen/rNQmaNg) | *html, css*  |
+| Visualize Data with a Bar Chart         |[CodePen](https://codepen.io/Danut-Nanu/full/YzRGxKv) | [CodePen](https://codepen.io/Danut-Nanu/pen/YzRGxKv) | *html, css, js*  |
+| Visualize Data with a Scatterplot Graph |[CodePen](https://codepen.io/Danut-Nanu/full/mdQOrPG) | [CodePen](https://codepen.io/Danut-Nanu/pen/mdQOrPG) | *html, css, js*  |
+| Visualize Data with a Heat Map          |[CodePen](https://codepen.io/Danut-Nanu/full/gOQWYzN) | [CodePen](https://codepen.io/Danut-Nanu/pen/gOQWYzN) | *html, css, js*  |
+| Visualize Data with a Choropleth Map    |[CodePen](https://codepen.io/Danut-Nanu/full/BaGRaEw) | [CodePen](https://codepen.io/Danut-Nanu/pen/BaGRaEw) | *html, css, js*  |
+| Visualize Data with a Treemap Diagram    |[CodePen](https://codepen.io/Danut-Nanu/full/rNQmaNg) | [CodePen](https://codepen.io/Danut-Nanu/pen/rNQmaNg) | *html, css, js*  |
