@@ -48,7 +48,7 @@
 
 <br>
 
- ### Front End Development Libraries
+ ### Back End Development and APIs
 | Project Name                 | Live Project                                        | Code                                                | Technologies |
 | :---                         | :--                                                 | :---                                                | :---         |
 | 25 + 5 Clock                 |[CodePen](https://codepen.io/Danut-Nanu/full/MWzwYLY) | [CodePen](https://codepen.io/Danut-Nanu/pen/MWzwYLY) | *html, css, js*  |
