@@ -51,11 +51,11 @@
  ### Back End Development and APIs
 | Project Name                 | Live Project                                        | Code                                                | Technologies |
 | :---                         | :--                                                 | :---                                                | :---         |
-| 25 + 5 Clock                 |[CodePen](https://codepen.io/Danut-Nanu/full/MWzwYLY) | [CodePen](https://codepen.io/Danut-Nanu/pen/MWzwYLY) | *html, css, js*  |
-| Drum Machine                 |[CodePen](https://codepen.io/Danut-Nanu/full/KKGLmJL) | [CodePen](https://codepen.io/Danut-Nanu/pen/KKGLmJL) | *html, css, js*  |
-| JavaScriptCalculator         |[CodePen](https://codepen.io/Danut-Nanu/full/ExOxYGG) | [CodePen](https://codepen.io/Danut-Nanu/pen/ExOxYGG) | *html, css, js*  |
-| Markdown Previewer           |[CodePen](https://codepen.io/Danut-Nanu/full/RwempgN) | [CodePen](https://codepen.io/Danut-Nanu/pen/RwempgN) | *html, css, js*  |
-| RandomQuoteMachine           |[CodePen](https://codepen.io/Danut-Nanu/full/PoyXqwg) | [CodePen](https://codepen.io/Danut-Nanu/pen/PoyXqwg) | *html, css, js*  |
+| Exercise Tracker                 |[CodePen](https://codepen.io/Danut-Nanu/full/MWzwYLY) | [CodePen](https://codepen.io/Danut-Nanu/pen/MWzwYLY) | *html, css, js*  |
+| File Metadata Microservice                |[CodePen](https://codepen.io/Danut-Nanu/full/KKGLmJL) | [CodePen](https://codepen.io/Danut-Nanu/pen/KKGLmJL) | *html, css, js*  |
+| URL Shortener Microservice         |[CodePen](https://codepen.io/Danut-Nanu/full/ExOxYGG) | [CodePen](https://codepen.io/Danut-Nanu/pen/ExOxYGG) | *html, css, js*  |
+| -          |[CodePen](https://codepen.io/Danut-Nanu/full/RwempgN) | [CodePen](https://codepen.io/Danut-Nanu/pen/RwempgN) | *html, css, js*  |
+| -           |[CodePen](https://codepen.io/Danut-Nanu/full/PoyXqwg) | [CodePen](https://codepen.io/Danut-Nanu/pen/PoyXqwg) | *html, css, js*  |
 | **[Certificate](https://www.freecodecamp.org/certification/danutnanu/front-end-development-libraries)** ||||
 
 <br>
