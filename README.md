@@ -53,7 +53,7 @@
  ### Back End Development and APIs
 | Project Name                 | Live Project                                        | Code                                                | Technologies |
 | :---                         | :--                                                 | :---                                                | :---         |
-| Exercise Tracker                 |[CodePen](https://codepen.io/Danut-Nanu | [CodePen](https://codepen.io/Danut-Nanu) | *html, css, js*  |
+| Exercise Tracker                 |[CodePen](https://codepen.io/Danut-Nanu) | [CodePen](https://codepen.io/Danut-Nanu) | *html, css, js*  |
 | File Metadata Microservice       |[CodePen](https://codepen.io/Danut-Nanu) | [CodePen](https://codepen.io/Danut-Nanu) | *html, css, js*  |
 | URL Shortener Microservice       |[CodePen](https://codepen.io/Danut-Nanu) | [CodePen](https://codepen.io/Danut-Nanu) | *html, css, js*  |
 | Timestamp Microservice            |[CodePen](https://codepen.io/Danut-Nanu) | [CodePen](https://codepen.io/Danut-Nanu) | *html, css, js*  |
