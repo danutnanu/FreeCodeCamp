@@ -51,11 +51,11 @@
  ### Back End Development and APIs
 | Project Name                 | Live Project                                        | Code                                                | Technologies |
 | :---                         | :--                                                 | :---                                                | :---         |
-| Exercise Tracker                 |[CodePen](https://codepen.io/Danut-Nanu/full/MWzwYLY) | [CodePen](https://codepen.io/Danut-Nanu/pen/MWzwYLY) | *html, css, js*  |
-| File Metadata Microservice                |[CodePen](https://codepen.io/Danut-Nanu/full/KKGLmJL) | [CodePen](https://codepen.io/Danut-Nanu/pen/KKGLmJL) | *html, css, js*  |
-| URL Shortener Microservice         |[CodePen](https://codepen.io/Danut-Nanu/full/ExOxYGG) | [CodePen](https://codepen.io/Danut-Nanu/pen/ExOxYGG) | *html, css, js*  |
-| -          |[CodePen](https://codepen.io/Danut-Nanu/full/RwempgN) | [CodePen](https://codepen.io/Danut-Nanu/pen/RwempgN) | *html, css, js*  |
-| -           |[CodePen](https://codepen.io/Danut-Nanu/full/PoyXqwg) | [CodePen](https://codepen.io/Danut-Nanu/pen/PoyXqwg) | *html, css, js*  |
-| **[Certificate](https://www.freecodecamp.org/certification/danutnanu/front-end-development-libraries)** ||||
+| Exercise Tracker                 |[CodePen](https://codepen.io/Danut-Nanu | [CodePen](https://codepen.io/Danut-Nanu) | *html, css, js*  |
+| File Metadata Microservice       |[CodePen](https://codepen.io/Danut-Nanu) | [CodePen](https://codepen.io/Danut-Nanu) | *html, css, js*  |
+| URL Shortener Microservice       |[CodePen](https://codepen.io/Danut-Nanu) | [CodePen](https://codepen.io/Danut-Nanu) | *html, css, js*  |
+| Timestamp Microservice            |[CodePen](https://codepen.io/Danut-Nanu) | [CodePen](https://codepen.io/Danut-Nanu) | *html, css, js*  |
+| Request Header Parser Microservice|[CodePen](https://codepen.io/Danut-Nanu) | [CodePen](https://codepen.io/Danut-Nanu) | *html, css, js*  |
+| **[Certificate](https://www.freecodecamp.org/certification/danutnanu/back-end-development-and-apis)** ||||
 
 <br>
