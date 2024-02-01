@@ -53,7 +53,7 @@
  ### Back End Development and APIs
 | Project Name                 | Live Project                                        | Code                                                | Technologies |
 | :---                         | :--                                                 | :---                                                | :---         |
-| Exercise Tracker                 |[Replit](https://replit.com/@danutnanu/boilerplate-project-exercisetracker) | [CodePen](https://codepen.io/Danut-Nanu) | *html, css, js*  |
+| Exercise Tracker                 |[Replit](https://8fd5a7cb-d8cb-4d0e-9020-d2a8805d5cb6-00-1rp1mkr2h8zy1.spock.replit.dev/) | [Replit](https://replit.com/@danutnanu/boilerplate-project-exercisetracker) | *node.js, mongoose*  |
 | File Metadata Microservice       |[CodePen](https://codepen.io/Danut-Nanu) | [CodePen](https://codepen.io/Danut-Nanu) | *html, css, js*  |
 | URL Shortener Microservice       |[CodePen](https://codepen.io/Danut-Nanu) | [CodePen](https://codepen.io/Danut-Nanu) | *html, css, js*  |
 | Timestamp Microservice            |[CodePen](https://codepen.io/Danut-Nanu) | [CodePen](https://codepen.io/Danut-Nanu) | *html, css, js*  |
