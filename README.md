@@ -55,7 +55,7 @@
 | :---                         | :--                                                 | :---                                                | :---         |
 | Exercise Tracker                 |[Replit](https://8fd5a7cb-d8cb-4d0e-9020-d2a8805d5cb6-00-1rp1mkr2h8zy1.spock.replit.dev/) | [Replit](https://replit.com/@danutnanu/boilerplate-project-exercisetracker) | *node.js, mongoose*  |
 | File Metadata Microservice       |[Replit](https://35760490-917f-4a83-b4ae-99757a7be186-00-vy2i5tocfl1x.worf.replit.dev/) | [Replit](https://replit.com/@danutnanu/boilerplate-project-filemetadata) | *node.js*  |
-| URL Shortener Microservice       |[CodePen](https://codepen.io/Danut-Nanu) | [CodePen](https://codepen.io/Danut-Nanu) | *html, css, js*  |
+| URL Shortener Microservice       |[Replit](https://521dc855-d83b-4f30-b865-dfea53808128-00-mksrpl50vs88.riker.replit.dev/) | [replit](https://replit.com/@danutnanu/boilerplate-project-urlshortener) | *node.js, mongodb, mongoose*  |
 | Timestamp Microservice            |[CodePen](https://codepen.io/Danut-Nanu) | [CodePen](https://codepen.io/Danut-Nanu) | *html, css, js*  |
 | Request Header Parser Microservice|[CodePen](https://codepen.io/Danut-Nanu) | [CodePen](https://codepen.io/Danut-Nanu) | *html, css, js*  |
 | **[Certificate](https://www.freecodecamp.org/certification/danutnanu/back-end-development-and-apis)** ||||
