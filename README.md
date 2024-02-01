@@ -66,10 +66,7 @@
 | Project Name                 | Live Project                                        | Code                                                | Technologies |
 | :---                         | :--                                                 | :---                                                | :---         |
 | Metric-Imperial Converter                 |[Glitch](https://ancient-snowy-occupation.glitch.me/) | [Glitch](https://glitch.com/edit/#!/ancient-snowy-occupation?path=README.md%3A1%3A0) | *node.js*  |
-| File Metadata Microservice       |[Replit](https://35760490-917f-4a83-b4ae-99757a7be186-00-vy2i5tocfl1x.worf.replit.dev/) | [Replit](https://replit.com/@danutnanu/boilerplate-project-filemetadata) | *node.js*  |
-| URL Shortener Microservice       |[Replit](https://521dc855-d83b-4f30-b865-dfea53808128-00-mksrpl50vs88.riker.replit.dev/) | [replit](https://replit.com/@danutnanu/boilerplate-project-urlshortener) | *node.js, mongodb, mongoose*  |
-| Timestamp Microservice           |[Replit](https://a2734c01-c21b-4400-a456-0ffb2babf178-00-d6kdur78zgw.spock.replit.dev/) | [Replit](https://replit.com/@danutnanu/boilerplate-project-timestamp) | *node.js*  |
-| Request Header Parser Microservice|[Replit](https://dc2f848d-6b9e-4592-bb67-fcb8d370ad1a-00-bcs6vg0vzfg5.riker.replit.dev/) | [Replit](https://replit.com/@danutnanu/boilerplate-project-headerparser) | *node.js*  |
+
 | **[Certificate](https://www.freecodecamp.org/certification/danutnanu/back-end-development-and-apis)** ||||
 
 <br>
