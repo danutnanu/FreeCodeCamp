@@ -70,7 +70,7 @@
 | Personal Library                  |[Glitch](https://hot-wood-pony.glitch.me/) | [Glitch](https://glitch.com/edit/#!/hot-wood-pony?path=README.md%3A1%3A0) | *node.js, mongodb, mongoose*  |
 | Sudoku Solver                     |[Glitch](https://coal-ahead-billboard.glitch.me/) | [Glitch](https://glitch.com/edit/#!/coal-ahead-billboard?path=README.md%3A1%3A0) | *node.js*  |
 | American British Translator       |[Glitch](https://incongruous-silly-sage.glitch.me/) | [Glitch](https://glitch.com/edit/#!/incongruous-silly-sage?path=README.md%3A1%3A0) | *node.js*  |
-| **[Certificate](https://www.freecodecamp.org/certification/danutnanu/back-end-development-and-apis)** ||||
+| **[Certificate](https://www.freecodecamp.org/certification/danutnanu/quality-assurance-v7)** ||||
 
 <br>
 
