@@ -28,11 +28,11 @@
  ### Front End Development Libraries
 | Project Name                 | Live Project                                        | Code                                                | Technologies |
 | :---                         | :--                                                 | :---                                                | :---         |
-| 25 + 5 Clock                 |[CodePen](https://codepen.io/Danut-Nanu/full/MWzwYLY) | [CodePen](https://codepen.io/Danut-Nanu/pen/MWzwYLY) | *html, css, js*  |
-| Drum Machine                 |[CodePen](https://codepen.io/Danut-Nanu/full/KKGLmJL) | [CodePen](https://codepen.io/Danut-Nanu/pen/KKGLmJL) | *html, css, js*  |
-| JavaScriptCalculator         |[CodePen](https://codepen.io/Danut-Nanu/full/ExOxYGG) | [CodePen](https://codepen.io/Danut-Nanu/pen/ExOxYGG) | *html, css, js*  |
-| Markdown Previewer           |[CodePen](https://codepen.io/Danut-Nanu/full/RwempgN) | [CodePen](https://codepen.io/Danut-Nanu/pen/RwempgN) | *html, css, js*  |
-| RandomQuoteMachine           |[CodePen](https://codepen.io/Danut-Nanu/full/PoyXqwg) | [CodePen](https://codepen.io/Danut-Nanu/pen/PoyXqwg) | *html, css, js*  |
+| 25 + 5 Clock                 |[CodePen](https://codepen.io/Danut-Nanu/full/MWzwYLY) | [CodePen](https://codepen.io/Danut-Nanu/pen/MWzwYLY) | *react, html, css*  |
+| Drum Machine                 |[CodePen](https://codepen.io/Danut-Nanu/full/KKGLmJL) | [CodePen](https://codepen.io/Danut-Nanu/pen/KKGLmJL) | *react, html, css*  |
+| JavaScriptCalculator         |[CodePen](https://codepen.io/Danut-Nanu/full/ExOxYGG) | [CodePen](https://codepen.io/Danut-Nanu/pen/ExOxYGG) | *react, html, css*  |
+| Markdown Previewer           |[CodePen](https://codepen.io/Danut-Nanu/full/RwempgN) | [CodePen](https://codepen.io/Danut-Nanu/pen/RwempgN) | *react, html, css*  |
+| RandomQuoteMachine           |[CodePen](https://codepen.io/Danut-Nanu/full/PoyXqwg) | [CodePen](https://codepen.io/Danut-Nanu/pen/PoyXqwg) | *react, html, css*  |
 | **[Certificate](https://www.freecodecamp.org/certification/danutnanu/front-end-development-libraries)** ||||
 
 <br>
@@ -40,11 +40,11 @@
  ### Data Visualization
 | Project Name                  | Live Project                                        | Code                                                | Technologies |
 | :---                          | :--                                                 | :---                                                | :---         |
-| Visualize Data with a Bar Chart         |[CodePen](https://codepen.io/Danut-Nanu/full/YzRGxKv) | [CodePen](https://codepen.io/Danut-Nanu/pen/YzRGxKv) | *html, css, js*  |
-| Visualize Data with a Scatterplot Graph |[CodePen](https://codepen.io/Danut-Nanu/full/mdQOrPG) | [CodePen](https://codepen.io/Danut-Nanu/pen/mdQOrPG) | *html, css, js*  |
-| Visualize Data with a Heat Map          |[CodePen](https://codepen.io/Danut-Nanu/full/gOQWYzN) | [CodePen](https://codepen.io/Danut-Nanu/pen/gOQWYzN) | *html, css, js*  |
-| Visualize Data with a Choropleth Map    |[CodePen](https://codepen.io/Danut-Nanu/full/BaGRaEw) | [CodePen](https://codepen.io/Danut-Nanu/pen/BaGRaEw) | *html, css, js*  |
-| Visualize Data with a Treemap Diagram    |[CodePen](https://codepen.io/Danut-Nanu/full/rNQmaNg) | [CodePen](https://codepen.io/Danut-Nanu/pen/rNQmaNg) | *html, css, js*  |
+| Visualize Data with a Bar Chart         |[CodePen](https://codepen.io/Danut-Nanu/full/YzRGxKv) | [CodePen](https://codepen.io/Danut-Nanu/pen/YzRGxKv) | *d3.js*  |
+| Visualize Data with a Scatterplot Graph |[CodePen](https://codepen.io/Danut-Nanu/full/mdQOrPG) | [CodePen](https://codepen.io/Danut-Nanu/pen/mdQOrPG) | *d3.js*  |
+| Visualize Data with a Heat Map          |[CodePen](https://codepen.io/Danut-Nanu/full/gOQWYzN) | [CodePen](https://codepen.io/Danut-Nanu/pen/gOQWYzN) | *d3.js*  |
+| Visualize Data with a Choropleth Map    |[CodePen](https://codepen.io/Danut-Nanu/full/BaGRaEw) | [CodePen](https://codepen.io/Danut-Nanu/pen/BaGRaEw) | *d3.js*  |
+| Visualize Data with a Treemap Diagram    |[CodePen](https://codepen.io/Danut-Nanu/full/rNQmaNg) | [CodePen](https://codepen.io/Danut-Nanu/pen/rNQmaNg) | *d3.js*  |
 | **[Certificate](https://www.freecodecamp.org/certification/danutnanu/data-visualization)** ||||
 
 
